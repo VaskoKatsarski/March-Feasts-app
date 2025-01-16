@@ -1,7 +1,7 @@
 # March-Feasts-app
 
  Welcome to the March Celebration Hub! This repository contains the code for a beautifully designed, interactive web application that highlights the spirit of March through its notable holidays and cultural traditions. The project offers users an engaging platform to learn about and celebrate events such as Liberation Day, International Women’s Day, and Baba Marta in an interactive and visually compelling way.
-...
+
 
 ## Features ✨
 ## 🎯 Key Holiday Insights
